@@ -1,2 +1,4 @@
 git init
 got status
+git clone
+git commit
